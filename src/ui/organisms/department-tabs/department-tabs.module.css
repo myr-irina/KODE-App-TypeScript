@@ -1,0 +1,8 @@
+.department-tabs-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  border-bottom: 1px solid var(--color-background-border);
+  overflow-x: scroll;
+  width: 100%;
+}

@@ -1,0 +1,7 @@
+.text-primary {
+  font-size: 16px;
+  line-height: 20px;
+  font-weight: 500;
+  color: var(--color-foreground-primary);
+  margin: 0;
+}

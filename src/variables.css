@@ -1,0 +1,11 @@
+:root {
+  --color-background-primary: #FFFFFF;
+  --color-background-secondary: #F7F7F8;
+  --color-background-accent: #6534FF;
+  --color-background-border: #C3C3C6;
+  --color-foreground-primary: #050510;
+  --color-foreground-secondary: ##55555C;
+  --color-foreground-light: #97979B;
+  --color-foreground-placeholer: #C3C3C6;
+  --color-foreground-accent: #6534FF;
+}

@@ -1,0 +1,7 @@
+.text-small {
+  font-size: 13px;
+  line-height: 16px;
+  font-weight: 400;
+  color: var(--color-foreground-secondary);
+  margin: 0;
+}

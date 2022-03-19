@@ -1,0 +1,8 @@
+.container {
+  max-width: 1280px;
+  width: 100%;
+  max-width: 0 auto;
+  background-color: var(--color-accent);
+  padding: 16px;
+  margin: 0 auto;
+}

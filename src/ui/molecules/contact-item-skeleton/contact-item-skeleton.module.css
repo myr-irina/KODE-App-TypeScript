@@ -1,0 +1,30 @@
+.contact-item-skeleton-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin-bottom: 24px;
+}
+
+.contact-item-skeleton-avatar {
+  width: 72px;
+  height: 72px;
+  border-radius: 50%;
+  background: linear-gradient(90deg, #F3F3F6 0%, #FAFAFA 100%);
+  margin-right: 16px;
+}
+
+.contact-item-skeleton-title {
+  width: 144px;
+  height: 16px;
+  border-radius: 50px;
+  background: linear-gradient(90deg, #F3F3F6 0%, #FAFAFA 100%);
+  margin-bottom: 6px;
+}
+
+.contact-item-skeleton-subtitle {
+  width: 80px;
+  height: 12px;
+  border-radius: 50px;
+  background: linear-gradient(90deg, #F3F3F6 0%, #FAFAFA 100%);
+  margin-bottom: 6px;
+}

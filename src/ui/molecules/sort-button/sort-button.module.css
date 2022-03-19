@@ -1,0 +1,11 @@
+.sortButton {
+  width: 24px;
+  height: 24px;
+  border: none;
+  padding: 0;
+  background-color: transparent;
+}
+
+.sortButton:hover {
+  cursor: pointer;
+}

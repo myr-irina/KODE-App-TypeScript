@@ -1,0 +1,7 @@
+.text-secondary {
+  font-size: 14px;
+  line-height: 18px;
+  width: 500;
+  color: var(--color-foreground-light);
+  margin: 0;
+}
